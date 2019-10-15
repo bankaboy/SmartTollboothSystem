@@ -24,3 +24,5 @@ For tensorflow installation - https://tensorflow.org/hub/installation
 For keras installation - https://keras.io/#installation 
 
 Weights files - https://drive.google.com/drive/folders/1QL10IEbbN6HtqReiPB6GMm3etpF3kVqt?usp=sharing
+Download and put out each folder in the LicensePlateRecognition-master folder
+
